@@ -88,13 +88,13 @@
   <table>
     <tr>
       <td valign="top" width="33%">
-        <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasGenvts&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasGenvts&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
       </td>
       <td valign="top" width="33%">
-        <img width="33%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" />
       </td>
       <td valign="top" width="33%">
-        <img width="33%" src="https://stats.justsong.cn/api/leetcode?username=hasgenvts&cn=true" />
+        <img src="https://stats.justsong.cn/api/leetcode?username=hasgenvts&cn=true" />
       </td>
     </tr>
   </table>
