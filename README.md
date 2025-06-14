@@ -6,14 +6,19 @@
 
 
 ## About My Github
-<p align = "center">  
-  <img src = "https://profile-counter.glitch.me/HasGenvts/count.svg">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&theme=radical">
-</p>
 
+<p align = "center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <img src = "https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight&line_height=27">
+      </td>
+      <td valign="top" width="33%">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&theme=radical">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
