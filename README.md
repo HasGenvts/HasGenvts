@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-### I'm munan , A Java programmer.
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm munan , A Java programmer)
+
+
 
 ## About My Github
 <p align = "center">  
