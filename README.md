@@ -85,7 +85,7 @@
 <p align = "center">
 <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasGenvts&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 <img width="33%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" />
-<img width="33%" src="https://stats.justsong.cn/api/leetcode?username=HasGenvts&cn=true" />
+<img width="33%" src="https://stats.justsong.cn/api/leetcode?username=beautiful-euler3fi&cn=true" />
 </p>
 
 
