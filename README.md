@@ -83,6 +83,10 @@ Pageviews ： ![Visitor Count](https://profile-counter.glitch.me/HasGenvts/count
 
 <br/>  
 
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasGenvts&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
+
 
 <!--
 **HasGenvts/HasGenvts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
