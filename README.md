@@ -4,9 +4,11 @@
 
 ## About My Github
 
-Pageviews ： ![Visitor Count](https://profile-counter.glitch.me/HasGenvts/count.svg)
+<div align="center">
+  Pageviews ： ![Visitor Count](https://profile-counter.glitch.me/HasGenvts/count.svg)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts)](https://github.com/anuraghazra/github-readme-stats)![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight)
+<div height="50">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts)](https://github.com/anuraghazra/github-readme-stats)</div><div height="50"> ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight)</div>
 
 
 
