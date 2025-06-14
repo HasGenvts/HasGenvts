@@ -4,8 +4,6 @@
 
 ## About My Github
 <p align = "center">
-  <h4>PageViews</h4>
-  <img src = "https://profile-counter.glitch.me/HasGenvts/count.svg">
   <img src = "https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&theme=radical">
 </p>
