@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+munan,+A+normal+java+programmer;very+happy+to+see+you)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+munan,+A+normal+programmer;Very+happy+to+see+you;Just+try+everything)
 
 
 
