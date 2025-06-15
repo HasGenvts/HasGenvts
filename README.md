@@ -106,7 +106,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" height="100%" width="100%"/>
       </td>
       <td valign="top" width="33%">
-        <img src="https://stats.justsong.cn/api/leetcode?username=hasgenvts&cn=true" height="100%" width="100%"/>
+        <img src="https://stats.justsong.cn/api/leetcode?username=beautiful-euler3fi&cn=true" height="100%" width="100%"/>
       </td>
     </tr>
   </table>
