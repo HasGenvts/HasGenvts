@@ -22,7 +22,7 @@
         <img src = "https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight&line_height=27">
       </td>
       <td valign="top" width="50%">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&theme=radical">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&theme=radical" width="100%">
       </td>
     </tr>
   </table>
