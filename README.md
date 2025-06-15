@@ -90,8 +90,8 @@
 <div align="center">
 <a href="https://github.com/hasgenvts" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<img src="https://komarev.com/ghpvc/?username=HasGenvts&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </a>  
+ <img src="https://komarev.com/ghpvc/?username=HasGenvts&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>  
   
 
