@@ -22,7 +22,7 @@
         <img src = "https://github-readme-stats.vercel.app/api?username=HasGenvts&show_icons=true&theme=tokyonight&line_height=27">
       </td>
       <td valign="top" width="50%">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasGenvts&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" width="100%" height="100%"/> 
       </td>
     </tr>
   </table>
