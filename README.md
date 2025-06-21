@@ -29,6 +29,20 @@
   </div>
 </p>
 
+<p align = "center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" height="100%" width="100%"/>
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://leetcard.jacoblin.cool/beautiful-euler3fi?theme=light,unicorn&site=cn" height="100%" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -96,18 +110,6 @@
 
 <br/>  
 
-<p align = "center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" height="100%" width="100%"/>
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://leetcard.jacoblin.cool/beautiful-euler3fi?theme=light,unicorn&site=cn" height="100%" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
