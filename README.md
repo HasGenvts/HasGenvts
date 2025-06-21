@@ -99,13 +99,10 @@
 <p align = "center">
   <table>
     <tr>
-      <td valign="top" width="33%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasGenvts&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" height="100%" width="100%"/>
-      </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="50%">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasGenvts" height="100%" width="100%"/>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="50%">
         <img src="https://leetcard.jacoblin.cool/beautiful-euler3fi?theme=light,unicorn&site=cn" height="100%" width="100%"/>
       </td>
     </tr>
